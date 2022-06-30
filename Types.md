@@ -1,11 +1,11 @@
 # Setup 
-~~I've already done all the hard parts~~
-add these two options to your settings
+~~I've already done all the hard parts~~\
+add these two options to your settings\
 ![Pastedimage20220624121607.png](https://raw.githubusercontent.com/natefabian18/typeDocs/main/Types/Pastedimage20220624121607.png)
 # Examples as to why this is useful
 ## Error checking 
 ~~(AKA don't be dumb)~~
-Note: all of these are directly from S9's codebase not madeup examples
+Note: a lot of these are directly from S9's codebase not madeup examples
 ### customer-controller.js 
 #### improper use of the new keyword
 ![Pastedimage20220624115709.png](https://raw.githubusercontent.com/natefabian18/typeDocs/main/Types/Pastedimage20220624115709.png)
@@ -40,6 +40,6 @@ async getOverridePassword(){
 ![Pastedimage20220624121314.png](https://raw.githubusercontent.com/natefabian18/typeDocs/main/Types/Pastedimage20220624121314.png)
 
 ## Exceptions
-This type is weird and I cant get it to not error
-//@ts-ignore tells the next line to ignore type checking
+This type is weird and I cant get it to not error\
+//@ts-ignore tells the next line to ignore type checking\
 ![Pastedimage20220624121505.png](https://raw.githubusercontent.com/natefabian18/typeDocs/main/Types/Pastedimage20220624121505.png)
