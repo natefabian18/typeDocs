@@ -1,18 +1,18 @@
 # Setup 
 ~~I've already done all the hard parts~~
 add these two options to your settings
-![[Pasted image 20220624121607.png]]
+![Pasted image 20220624121607.png](./Types/Pasted image 20220624121607.png)
 # Examples as to why this is useful
 ## Error checking 
 ~~(AKA don't be dumb)~~
 Note: all of these are directly from S9's codebase not madeup examples
 ### customer-controller.js 
 #### improper use of the new keyword
-![[Pasted image 20220624115709.png]]
+![Pasted image 20220624115709.png](./Types/Pasted image 20220624115709.png)
 #### Oops wrong caps
-![[Pasted image 20220624115751.png]]
+![Pasted image 20220624115751.png](./Types/Pasted image 20220624115751.png)
 #### duplicate properties on an object
-![[Pasted image 20220624121758.png]]
+![Pasted image 20220624121758.png](./Types/Pasted image 20220624121758.png)
 ### customer.js
 #### Passing too many or not needed params
 ```
@@ -23,23 +23,23 @@ async getOverridePassword(){
 	//some code
 }
 ```
-![[Pasted image 20220624115445.png]]
+![Pasted image 20220624115445.png](./Types/Pasted image 20220624115445.png)
 
 
 ## Intellisense everywhere
 ### jQuery helpers
-![[Pasted image 20220624115859.png]]
+![Pasted image 20220624115859.png](./Types/Pasted image 20220624115859.png)
 ### kendo helpers
-![[Pasted image 20220624115918.png]]
-![[Pasted image 20220624115946.png]]
+![Pasted image 20220624115918.png](./Types/Pasted image 20220624115918.png)
+![Pasted image 20220624115946.png](./Types/Pasted image 20220624115946.png)
 
 ### custom JSDoc hints
 #### What did this function do again?
-![[Pasted image 20220624121017.png]]
+![Pasted image 20220624121017.png](./Types/Pasted image 20220624121017.png)
 #### ensure type operations are viable
-![[Pasted image 20220624121314.png]]
+![Pasted image 20220624121314.png](./Types/Pasted image 20220624121314.png)
 
 ## Exceptions
 This type is weird and I cant get it to not error
 //@ts-ignore tells the next line to ignore type checking
-![[Pasted image 20220624121505.png]]
+![Pasted image 20220624121505.png](./Types/Pasted image 20220624121505.png)
