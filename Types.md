@@ -23,7 +23,7 @@ async getOverridePassword(){
 	//some code
 }
 ```
-![Pasted image 20220624115445.png](https://raw.githubusercontent.com/natefabian18/typeDocs/main/Types/Pasted image 20220624115445.png)
+![Pasted image 20220624115445.png](https://raw.githubusercontent.com/natefabian18/typeDocs/main/Types/Pastedimage20220624115445.png)
 
 
 ## Intellisense everywhere
