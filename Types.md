@@ -1,6 +1,6 @@
 # Setup 
-~~I've already done all the hard parts~~
-add these two options to your settings
+~~I've already done all the hard parts~~\
+add these two options to your settings\
 ![Pastedimage20220624121607.png](https://raw.githubusercontent.com/natefabian18/typeDocs/main/Types/Pastedimage20220624121607.png)
 ```
 "js/ts.implicitProjectConfig.checkJs": true,
@@ -43,6 +43,6 @@ async getOverridePassword(){
 ![Pastedimage20220624121314.png](https://raw.githubusercontent.com/natefabian18/typeDocs/main/Types/Pastedimage20220624121314.png)
 
 ## Exceptions
-This type is weird and I cant get it to not error
-//@ts-ignore tells the next line to ignore type checking
+This type is weird and I cant get it to not error\
+//@ts-ignore tells the next line to ignore type checking\
 ![Pastedimage20220624121505.png](https://raw.githubusercontent.com/natefabian18/typeDocs/main/Types/Pastedimage20220624121505.png)
