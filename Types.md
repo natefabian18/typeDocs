@@ -2,10 +2,13 @@
 ~~I've already done all the hard parts~~
 add these two options to your settings
 ![Pastedimage20220624121607.png](https://raw.githubusercontent.com/natefabian18/typeDocs/main/Types/Pastedimage20220624121607.png)
+```
+"js/ts.implicitProjectConfig.checkJs": true,
+"js/ts.implicitProjectConfig.strictNullChecks": false
+```
 # Examples as to why this is useful
 ## Error checking 
-~~(AKA don't be dumb)~~
-Note: all of these are directly from S9's codebase not madeup examples
+Note: most of these are directly from S9's codebase not madeup examples
 ### customer-controller.js 
 #### improper use of the new keyword
 ![Pastedimage20220624115709.png](https://raw.githubusercontent.com/natefabian18/typeDocs/main/Types/Pastedimage20220624115709.png)
